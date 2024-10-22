@@ -19,7 +19,8 @@ Junyang Wang, Haiyang Xu, **Haitao Jia**, Xi Zhang, Ming Yan, Weizhou Shen, Ji Z
 
 Education
 ======
-**M.S (Computer Science)**, [Beijing Jiaotong University](http://www.bjtu.edu.cn/)  
+**M.S (Computer Science)*, [Beijing Jiaotong University](http://www.bjtu.edu.cn/)  
 *2023.9 - 2026.6*
-**B.S (Computer Science)**, [Hebei University of Technology](https://www.hebut.edu.cn)  
+
+**B.S (Computer Science)*, [Hebei University of Technology](https://www.hebut.edu.cn)  
 *2019.9 - 2023.6*
