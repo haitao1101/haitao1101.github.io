@@ -11,7 +11,7 @@ I am currently a Master’s student in Computer Science and Technology at [Beiji
 
 My current research content is Multi-modal Large Language Model (MLLMs) and MLLM-based agent.
 
-Feel free to contact me via email: 23120356@bjtu.edu.cn or jiaht1101@gmail.com
+Feel free to contact me via email: *23120356@bjtu.edu.cn* or *jiaht1101@gmail.com*
 
 Publications
 ======
