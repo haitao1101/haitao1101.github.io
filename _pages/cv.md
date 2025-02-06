@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Haitao Jia"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-# +86-17320056755 | 23120356@bjtu.edu.cn | haitao1101.github.io
+## +86-17320056755 | 23120356@bjtu.edu.cn | haitao1101.github.io
 
 ## EDUCATION
 
@@ -43,12 +43,11 @@ Tianjin, China
 Beijing, China
 
 ### Mobile-Agent-v2: A Multi-Agent Architecture for Mobile Device Operation Assistance
+**Aug. 2024 - Oct. 2024 | Beijing, China**
+
 **BTU ADAM Lab and Alibaba Group** | **Advisor: Dr. Junyang Wang, Prof. Jitao Sang**  
 - Designed and implemented a multi-agent architecture comprising three specialized agents: a planning agent, a decision agent, and a reflection agent.
 - Developed the full multi-agent system in Python, incorporating models and tools for screen grounding and operation execution.
-
-**Aug. 2024 - Oct. 2024**  
-Beijing, China
 
 ### Fuzzy Instruction Analysis for Mobile AI Agents
 **BTU ADAM Lab** | **Advisor: Prof. Jitao Sang**  
