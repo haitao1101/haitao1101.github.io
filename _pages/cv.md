@@ -14,8 +14,8 @@ redirect_from:
 ## EDUCATION
 
 # Beijing Jiaotong University
-**M.Sc in Computer Science** <span style="display:block;text-align:right;color:black;">Sep. 2023 - Present</span><br>
-**Grade: 86.3%**                                                                                              Beijing, China<br>
+**M.Sc in Computer Science** <span style="display:block;text-align:right;color:black;">Sep. 2023 - Present<br>Beijing, China</span>
+**Grade: 86.3%**
 
 # Hebei University of Technology
 **B.Sc in Computer Science**                                                                           Sep. 2019 - Jun. 2023<br>
