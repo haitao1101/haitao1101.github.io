@@ -15,9 +15,12 @@ redirect_from:
 
 ### Beijing Jiaotong University
 **M.Sc in Computer Science**                                                                                 Sep. 2023 - Present
+
 **Grade: 86.3%**                                                                                                  Beijing, China
+
 ### Hebei University of Technology
 **B.Sc in Computer Science**                                                                               Sep. 2019 - Jun. 2023
+
 **GPA: 3.69/4.00**                                                                                                Tianjin, China
 
 ## PUBLICATIONS
