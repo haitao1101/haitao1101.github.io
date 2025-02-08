@@ -39,9 +39,9 @@ redirect_from:
 ---
 ## PUBLICATIONS
 
-**[C.1]** Haitao Jia, et al. (2024). Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration. In NeurIPS 2024.
+**[C.1]** Haitao Jia, et al. (2024). Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration. ***In NeurIPS 2024***.
 
-**[S.1]** Haitao Jia, et al. (2023). AMBER: An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation. In submission.
+**[S.1]** Haitao Jia, et al. (2023). AMBER: An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation. ***In submission***.
 
 ---
 ## RESEARCH EXPERIENCE
@@ -62,33 +62,62 @@ redirect_from:
 </div>
 
 ### Mobile-Agent-v2: A Multi-Agent Architecture for Mobile Device Operation Assistance
-**Aug. 2024 - Oct. 2024 | Beijing, China**
-
-**BTU ADAM Lab and Alibaba Group** | **Advisor: Dr. Junyang Wang, Prof. Jitao Sang**  
-- Designed and implemented a multi-agent architecture comprising three specialized agents: a planning agent, a decision agent, and a reflection agent.
-- Developed the full multi-agent system in Python, incorporating models and tools for screen grounding and operation execution.
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
+  <div style="font-size: 12px;">
+    <em>BJTU ADAM Lab and Alibaba Group | Advisor: Dr. Junyang Wang, Prof. Jitao Sang</em>     
+    <ul style="font-size: 14px;">
+      <li>Designed and implemented a multi-agent architecture comprising three specialized agents: a planning agent, a decision agent, and a reflection agent.</li>
+      <li>Developed the full multi-agent system in Python, incorporating models and tools for screen grounding and operation execution.</li>
+    </ul>
+  </div>
+  <div style="text-align: right; font-size: 12px;">
+    <span>Feb. 2024 - Jun. 2024</span><br>
+    <span>Beijing, China</span>
+  </div>
+</div>
 
 ### Fuzzy Instruction Analysis for Mobile AI Agents
-**BTU ADAM Lab** | **Advisor: Prof. Jitao Sang**  
-- Constructed a mobile task dataset with fuzzy instructions to enhance task comprehension.
-- Fine-tuned the base language model using the dataset, enabling the model to effectively identify and address fuzzy instructions and incomplete information.
-
-**Jun. 2024 - Aug. 2024**  
-Beijing, China
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
+  <div style="font-size: 12px;">
+    <em>BJTU ADAM Lab | Advisor: Prof. Jitao Sang</em>     
+    <ul style="font-size: 14px;">
+      <li>Constructed a mobile task dataset with fuzzy instructions to enhance task comprehension.</li>
+      <li>Fine-tuned the base language model using the dataset, enabling the model to effectively identify and address fuzzy instructions and incomplete information.</li>
+    </ul>
+  </div>
+  <div style="text-align: right; font-size: 12px;">
+    <span>Aug. 2024 - Oct. 2024</span><br>
+    <span>Beijing, China</span>
+  </div>
+</div>
 
 ### Generative AI Security Competition (Attack Track)
-**Institute of Information Engineering, Chinese Academy of Sciences** | **Advisor: Dr. Yifei Gao**  
-- Developed a transferable, context-aware large model jailbreak attack framework using prompt engineering, integrating context learning and similarity retrieval techniques to bypass security measures.
-
-**Oct. 2023 - Jan. 2024**  
-Beijing, China
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
+  <div style="font-size: 12px;">
+    <em>Institute of Information Engineering, Chinese Academy of Sciences | Advisor: Dr. Yifei Gao</em>     
+    <ul style="font-size: 14px;">
+      <li>Developed a transferable, context-aware large model jailbreak attack framework using prompt engineering, integrating context learning and similarity retrieval techniques to bypass security measures.</li>
+    </ul>
+  </div>
+  <div style="text-align: right; font-size: 12px;">
+    <span>Jun. 2024 - Aug. 2024</span><br>
+    <span>Beijing, China</span>
+  </div>
+</div>
 
 ### An LLM-Free Multi-Dimensional Benchmark for Evaluating MLLM Hallucination
-**BTU ADAM Lab** | **Advisor: Dr. Junyang Wang, Prof. Jitao Sang**  
-- Contributed to the development of a benchmark to assess hallucinations in Multimodal Large Language Models (MLLMs), focusing on a holistic evaluation approach free from reliance on large language models.
-
-**Nov. 2024**  
-Beijing, China
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
+  <div style="font-size: 12px;">
+    <em>BJTU ADAM Lab | Advisor: Dr. Junyang Wang, Prof. Jitao Sang</em>     
+    <ul style="font-size: 14px;">
+      <li>Contributed to the development of a benchmark to assess hallucinations in Multimodal Large Language Models (MLLMs), focusing on a holistic evaluation approach free from reliance on large language models.</li>
+    </ul>
+  </div>
+  <div style="text-align: right; font-size: 12px;">
+    <span>Oct. 2023 - Nov. 2024</span><br>
+    <span>Beijing, China</span>
+  </div>
+</div>
 
 ---
 ## HONORS AND AWARDS
