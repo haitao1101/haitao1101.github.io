@@ -49,15 +49,17 @@ redirect_from:
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
   <div style="font-size: 12px;">
     <em>Lenovo Research AI Lab</em> | <em>Advisor: Dr. Likang Wu, Dr. Ming He, Prof. Jitao Sang</em>                   
+  </div>
+  <div style="text-align: right; font-size: 12px;">
+    <span>Dec. 2024 - Present</span><br>
+    <span>Beijing, China</span>
+  </div>
+  <div style="font-size: 14px;">                
     <ul>
       <li>Developed a dynamic information supplementation framework for mobile multi-agent systems.</li>
       <li>Implemented the complete framework in Python and conducted performance testing on mobile devices.</li>
       <li>Fine-tuned the foundational model to optimize its adaptability to diverse mobile user tasks.</li>
     </ul>
-  </div>
-  <div style="text-align: right; font-size: 14px;">
-    <span>Dec. 2024 - Present</span><br>
-    <span>Beijing, China</span>
   </div>
 </div>
 
