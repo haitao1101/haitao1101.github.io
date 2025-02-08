@@ -58,6 +58,7 @@ redirect_from:
   <div style="text-align: right; font-size: 12px;">
     <span>Dec. 2024 - Present</span><br>
     <span>Beijing, China</span>
+  </div>
 </div>
 
 ### Mobile-Agent-v2: A Multi-Agent Architecture for Mobile Device Operation Assistance
