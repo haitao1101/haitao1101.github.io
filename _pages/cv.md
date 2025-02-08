@@ -42,6 +42,7 @@ redirect_from:
 **[C.1]** Haitao Jia, et al. (2024). Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration. In NeurIPS 2024.
 
 **[S.1]** Haitao Jia, et al. (2023). AMBER: An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation. In submission.
+
 ---
 ## RESEARCH EXPERIENCE
 
@@ -50,9 +51,6 @@ redirect_from:
 - Developed a dynamic information supplementation framework for mobile multi-agent systems.                     Beijing, China
 - Implemented the complete framework in Python and conducted performance testing on mobile devices.
 - Fine-tuned the foundational model to optimize its adaptability to diverse mobile user tasks.
-
-  
-
 
 ### Mobile-Agent-v2: A Multi-Agent Architecture for Mobile Device Operation Assistance
 **Aug. 2024 - Oct. 2024 | Beijing, China**
@@ -82,6 +80,7 @@ Beijing, China
 
 **Nov. 2024**  
 Beijing, China
+
 ---
 ## HONORS AND AWARDS
 
@@ -96,6 +95,7 @@ Beijing, China
 
 - **The First Prize in the Big Data Challenge for Universities in China**  
   Hebei University of Technology
+
 ---
 ## SKILLS
 
