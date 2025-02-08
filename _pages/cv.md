@@ -13,7 +13,8 @@ redirect_from:
 ---
 ## EDUCATION
 
-- **Beijing Jiaotong University**<br><div style="display: flex; justify-content: space-between; align-items: baseline;">
+### Beijing Jiaotong University
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
   <div>
     M.Sc in Computer Science<br>
     Grade: 86.3%
@@ -23,9 +24,8 @@ redirect_from:
     <span>Beijing, China</span>
   </div>
 </div>
-
-
-- **Hebei University of Technology**<br><div style="display: flex; justify-content: space-between; align-items: baseline;">
+### Hebei University of Technology
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
   <div>
     B.Sc in Computer Science<br>
     GPA: 3.69/4.00
@@ -35,7 +35,6 @@ redirect_from:
     <span>Tianjin, China</span>
   </div>
 </div>
-
 
 ---
 ## PUBLICATIONS
