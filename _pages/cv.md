@@ -10,24 +10,33 @@ redirect_from:
 {% include base_path %}
 
 ## +86-17320056755 | 23120356@bjtu.edu.cn | haitao1101.github.io
-
+---
 ## EDUCATION
 
-# Beijing Jiaotong University
-**M.Sc in Computer Science** <span style="display:block;text-align:right;color:black;">Sep. 2023 - Present<br>Beijing, China</span>
-**Grade: 86.3%**
+### Beijing Jiaotong University
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
+  <div>
+    <strong>M.Sc in Computer Science</strong><br>
+    Grade: 86.3%
+  </div>
+  <div style="text-align: right;">
+    <span>Sep. 2023 - Present</span><br>
+    <span>Beijing, China</span>
+  </div>
+</div>
 
-# Hebei University of Technology
+
+### Hebei University of Technology
 **B.Sc in Computer Science**                                                                           Sep. 2019 - Jun. 2023<br>
 **GPA: 3.69/4.00**                                                                                            Tianjin, China<br>
 
-
+---
 ## PUBLICATIONS
 
 **[C.1]** Haitao Jia, et al. (2024). Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration. In NeurIPS 2024.
 
 **[S.1]** Haitao Jia, et al. (2023). AMBER: An LLM-free Multi-dimensional Benchmark for MLLMs Hallucination Evaluation. In submission.
-
+---
 ## RESEARCH EXPERIENCE
 
 ### Dynamic Information Supplementation for Mobile AI Agents
@@ -67,7 +76,7 @@ Beijing, China
 
 **Nov. 2024**  
 Beijing, China
-
+---
 ## HONORS AND AWARDS
 
 - **The First Prize National Scholarship**  
@@ -81,7 +90,7 @@ Beijing, China
 
 - **The First Prize in the Big Data Challenge for Universities in China**  
   Hebei University of Technology
-
+---
 ## SKILLS
 
 - **Language:** Chinese (native), English (IELTS Academic 7.0)
