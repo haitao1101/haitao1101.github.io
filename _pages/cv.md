@@ -48,19 +48,18 @@ redirect_from:
 ### Dynamic Information Supplementation for Mobile AI Agents
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
   <div style="font-size: 12px;">
-    *Lenovo Research AI Lab* | *Advisor: Dr. Likang Wu, Dr. Ming He, Prof. Jitao Sang*                   
+    <em>Lenovo Research AI Lab</em> | <em>Advisor: Dr. Likang Wu, Dr. Ming He, Prof. Jitao Sang</em>                   
     <ul>
       <li>Developed a dynamic information supplementation framework for mobile multi-agent systems.</li>
       <li>Implemented the complete framework in Python and conducted performance testing on mobile devices.</li>
       <li>Fine-tuned the foundational model to optimize its adaptability to diverse mobile user tasks.</li>
     </ul>
   </div>
-  <div style="text-align: right; font-size: 12px;">
+  <div style="text-align: right; font-size: 14px;">
     <span>Dec. 2024 - Present</span><br>
     <span>Beijing, China</span>
   </div>
 </div>
-
 
 ### Mobile-Agent-v2: A Multi-Agent Architecture for Mobile Device Operation Assistance
 **Aug. 2024 - Oct. 2024 | Beijing, China**
