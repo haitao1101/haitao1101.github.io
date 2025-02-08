@@ -23,6 +23,7 @@ redirect_from:
 
 **GPA: 3.69/4.00**                                                                                                Tianjin, China
 
+
 ## PUBLICATIONS
 
 **[C.1]** Haitao Jia, et al. (2024). Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration. In NeurIPS 2024.
