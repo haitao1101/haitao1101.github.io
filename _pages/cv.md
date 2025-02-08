@@ -45,12 +45,19 @@ redirect_from:
 
 ---
 ## RESEARCH EXPERIENCE
-
 ### Dynamic Information Supplementation for Mobile AI Agents
-**Lenovo Research AI Lab** | **Advisor: Dr. Likang Wu, Dr. Ming He, Prof. Jitao Sang**                   **Dec. 2024 - Present**
-- Developed a dynamic information supplementation framework for mobile multi-agent systems.                     Beijing, China
-- Implemented the complete framework in Python and conducted performance testing on mobile devices.
-- Fine-tuned the foundational model to optimize its adaptability to diverse mobile user tasks.
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
+  <div>
+    **Lenovo Research AI Lab** | **Advisor: Dr. Likang Wu, Dr. Ming He, Prof. Jitao Sang**                   
+    - Developed a dynamic information supplementation framework for mobile multi-agent systems.                     
+    - Implemented the complete framework in Python and conducted performance testing on mobile devices.
+    - Fine-tuned the foundational model to optimize its adaptability to diverse mobile user tasks.
+  </div>
+  <div style="text-align: right;">
+    <span>Dec. 2024 - Present</span><br>
+    <span>Beijing, China</span>
+  </div>
+</div>
 
 ### Mobile-Agent-v2: A Multi-Agent Architecture for Mobile Device Operation Assistance
 **Aug. 2024 - Oct. 2024 | Beijing, China**
