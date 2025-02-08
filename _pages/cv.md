@@ -14,16 +14,11 @@ redirect_from:
 ## EDUCATION
 
 ### Beijing Jiaotong University
-**M.Sc in Computer Science**  
-**Grade: 86.3%**  
-Sep. 2023 - Present  
-Beijing, China
-
+**M.Sc in Computer Science**                                                                                 Sep. 2023 - Present
+**Grade: 86.3%**                                                                                                  Beijing, China
 ### Hebei University of Technology
-**B.Sc in Computer Science**  
-**GPA: 3.69/4.00**  
-Sep. 2019 - Jun. 2023  
-Tianjin, China
+**B.Sc in Computer Science**                                                                               Sep. 2019 - Jun. 2023
+**GPA: 3.69/4.00**                                                                                                Tianjin, China
 
 ## PUBLICATIONS
 
@@ -34,13 +29,13 @@ Tianjin, China
 ## RESEARCH EXPERIENCE
 
 ### Dynamic Information Supplementation for Mobile AI Agents
-**Lenovo Research AI Lab** | **Advisor: Dr. Likang Wu, Dr. Ming He, Prof. Jitao Sang**  
-- Developed a dynamic information supplementation framework for mobile multi-agent systems.
+**Lenovo Research AI Lab** | **Advisor: Dr. Likang Wu, Dr. Ming He, Prof. Jitao Sang**                   **Dec. 2024 - Present**
+- Developed a dynamic information supplementation framework for mobile multi-agent systems.                     Beijing, China
 - Implemented the complete framework in Python and conducted performance testing on mobile devices.
 - Fine-tuned the foundational model to optimize its adaptability to diverse mobile user tasks.
 
-**Dec. 2024 - Present**  
-Beijing, China
+  
+
 
 ### Mobile-Agent-v2: A Multi-Agent Architecture for Mobile Device Operation Assistance
 **Aug. 2024 - Oct. 2024 | Beijing, China**
