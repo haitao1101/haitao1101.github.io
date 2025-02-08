@@ -13,10 +13,10 @@ redirect_from:
 ---
 ## EDUCATION
 
-### Beijing Jiaotong University
+- **Beijing Jiaotong University**
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
   <div>
-    <strong>M.Sc in Computer Science</strong><br>
+    M.Sc in Computer Science<br>
     Grade: 86.3%
   </div>
   <div style="text-align: right;">
@@ -25,10 +25,17 @@ redirect_from:
   </div>
 </div>
 
-
-### Hebei University of Technology
-**B.Sc in Computer Science**                                                                           Sep. 2019 - Jun. 2023<br>
-**GPA: 3.69/4.00**                                                                                            Tianjin, China<br>
+- **Hebei University of Technology**
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
+  <div>
+    B.Sc in Computer Science<br>
+    GPA: 3.69/4.00
+  </div>
+  <div style="text-align: right;">
+    <span>Sep. 2019 - Jun. 2023</span><br>
+    <span>Tianjin, China</span>
+  </div>
+</div>
 
 ---
 ## PUBLICATIONS
