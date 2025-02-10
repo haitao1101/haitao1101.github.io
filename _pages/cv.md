@@ -28,7 +28,7 @@ redirect_from:
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
   <div>
     B.Sc in Computer Science<br>
-    GPA: 3.69/4.00
+    GPA: 3.70/4.00
   </div>
   <div style="text-align: right;">
     <span>Sep. 2019 - Jun. 2023</span><br>
