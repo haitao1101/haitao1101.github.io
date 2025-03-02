@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Master’s student in Computer Science and Technology at [Beijing Jiaotong University](http://www.bjtu.edu.cn/) and work with [Prof. Jitao Sang](http://faculty.bjtu.edu.cn/9129/). I obtained a Bachelor’s degree in Computer Science and Technology from [Hebei University of Technology](https://www.hebut.edu.cn/).
 
-<span style="color: red; font-weight: bold;">I am preparing my PhD applications and am actively seeking a summer research internship to enrich my research experience and secure a strong letter of recommendation. If my research aligns with your projects or if you are interested in collaborating, please feel free to reach out via email!</span>
+🔥<span style="color: red; font-weight: bold;">I am preparing my PhD applications and am actively seeking a summer research internship to enrich my research experience and secure a strong letter of recommendation. If my research aligns with your projects or if you are interested in collaborating, please feel free to reach out via email!😁</span>🔥
 
 ## Research
 
