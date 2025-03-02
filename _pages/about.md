@@ -9,9 +9,7 @@ redirect_from:
 
 I am currently a Master’s student in Computer Science and Technology at [Beijing Jiaotong University](http://www.bjtu.edu.cn/) and work with [Prof. Jitao Sang](http://faculty.bjtu.edu.cn/9129/). I obtained a Bachelor’s degree in Computer Science and Technology from [Hebei University of Technology](https://www.hebut.edu.cn/).
 
-My current research content is Multi-modal Large Language Model (MLLMs) and MLLM-based agent.
-
-Feel free to contact me via email: *23120356@bjtu.edu.cn* or *jiaht1101@gmail.com*
+<span style="color: red; font-weight: bold;">I am preparing my PhD applications and am actively seeking a summer research internship to enrich my research experience and secure a strong letter of recommendation. If my research aligns with your projects or if you are interested in collaborating, please feel free to reach out via email!</span>
 
 ## Research
 
@@ -24,7 +22,6 @@ Recently, I have developed a strong interest in designing efficient LLMs-based a
 > - Multi-agent Reinforcement Learning
 > - Intelligent Decision-making
 
-<span style="color: red; font-weight: bold;">I am preparing my PhD applications and am actively seeking a summer research internship to enrich my research experience and secure a strong letter of recommendation. If my research aligns with your projects or if you are interested in collaborating, please feel free to reach out via email!</span>
 
 ## Publications
 
@@ -39,3 +36,10 @@ Junyang Wang, Haiyang Xu, **Haitao Jia**, Xi Zhang, Ming Yan, Weizhou Shen, Ji Z
 
 ·*B.S (Computer Science)*, [Hebei University of Technology](https://www.hebut.edu.cn)  
 *2019.9 - 2023.6*
+
+## Contact
+
+email:
+> 23120356@bitu.edu.cn
+> jiaht1101@gmail.com
+
