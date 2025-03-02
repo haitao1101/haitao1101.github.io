@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master’s student in Computer Science and Technology at [Beijing Jiaotong University](http://www.bjtu.edu.cn/) and work with [Prof. Jitao Sang](http://faculty.bjtu.edu.cn/9129/). 我在河北工业大学获得了计算机科学与技术专业学士学位。
+I am currently a Master’s student in Computer Science and Technology at [Beijing Jiaotong University](http://www.bjtu.edu.cn/) and work with [Prof. Jitao Sang](http://faculty.bjtu.edu.cn/9129/). I obtained a Bachelor’s degree in Computer Science and Technology from [Hebei University of Technology](https://www.hebut.edu.cn/).
 
 My current research content is Multi-modal Large Language Model (MLLMs) and MLLM-based agent.
 
