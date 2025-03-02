@@ -7,11 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Master’s student in Computer Science and Technology at [Beijing Jiaotong University](http://www.bjtu.edu.cn/) and work with [Prof. Jitao Sang](http://faculty.bjtu.edu.cn/9129/). 
+I am currently a Master’s student in Computer Science and Technology at [Beijing Jiaotong University](http://www.bjtu.edu.cn/) and work with [Prof. Jitao Sang](http://faculty.bjtu.edu.cn/9129/). 我在河北工业大学获得了计算机科学与技术专业学士学位。
 
 My current research content is Multi-modal Large Language Model (MLLMs) and MLLM-based agent.
 
 Feel free to contact me via email: *23120356@bjtu.edu.cn* or *jiaht1101@gmail.com*
+
+## Research
+======
+I participated in the MLLMs-based AI Agent system project, Mobile Agent V2, which aims to develop a multi-agent system for mobile tasks automation. In this project, multiple agents—including a planning agent, a decision-making agent, and a reflection agent—work collaboratively to automate mobile tasks. Additionally, I was involved in the AMBER project, a hallucination study for MLLMs(multimodal large language models), focusing on hallucinations in both discriminative and generative tasks.
+
+Recently, I have developed a strong interest in designing efficient LLMs-based and MLLMs-based agents, as well as exploring human-agent interaction. I am currently investigating ways to enhance agent decision-making capabilities through supervised and reinforcement learning algorithms. My current research interests include:
+	•	Human-centered AI
+	•	Human-in-the-loop Agent
+	•	Multi-agent Reinforcement Learning
+	•	Intelligent Decision-making
+
+<span style="color: red; font-weight: bold;">I am preparing my PhD applications and am actively seeking a summer research internship to enrich my research experience and secure a strong letter of recommendation. If my research aligns with your projects or if you are interested in collaborating, please feel free to reach out via email!</span>
 
 Publications
 ======
