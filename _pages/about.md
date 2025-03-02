@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "Personal Information"
 author_profile: true
