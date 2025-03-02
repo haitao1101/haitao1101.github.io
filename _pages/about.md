@@ -24,10 +24,6 @@ Recently, I have developed a strong interest in designing efficient LLMs-based a
 
 
 ## Publications
-
-### [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)  
-Junyang Wang, Haiyang Xu, **Haitao Jia**, Xi Zhang, Ming Yan, Weizhou Shen, Ji Zhang, Fei Huang, Jitao Sang.  
-*Annual Conference on Neural Information Processing Systems (NeurIPS 2024)*. CCF-A.  
 <html>
 <head>
   <meta charset="utf-8" />
@@ -45,7 +41,7 @@ Junyang Wang, Haiyang Xu, **Haitao Jia**, Xi Zhang, Ming Yan, Weizhou Shen, Ji Z
          style="max-width: 300px; margin-right: 40px;">
     <div>
       <h2 style="margin: 0;"><a href="https://arxiv.org/abs/2406.01014" target="_blank">Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration</a></h2>
-      <p style="margin: 0;">Junyang Wang, Haiyang Xu, <strong>Haitao Jia</strong>strong>, Xi Zhang, Ming Yan, Weizhou Shen, Ji Zhang, Fei Huang, Jitao Sang</p>
+      <p style="margin: 0;">Junyang Wang, Haiyang Xu, <strong>Haitao Jia</strong>, Xi Zhang, Ming Yan, Weizhou Shen, Ji Zhang, Fei Huang, Jitao Sang</p>
       <p style="margin: 0;"><em>NeurIPS 2024</em></p>
     </div>
   </div>
