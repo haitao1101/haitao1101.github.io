@@ -14,25 +14,26 @@ My current research content is Multi-modal Large Language Model (MLLMs) and MLLM
 Feel free to contact me via email: *23120356@bjtu.edu.cn* or *jiaht1101@gmail.com*
 
 ## Research
-======
+
 I participated in the MLLMs-based AI Agent system project, Mobile Agent V2, which aims to develop a multi-agent system for mobile tasks automation. In this project, multiple agents—including a planning agent, a decision-making agent, and a reflection agent—work collaboratively to automate mobile tasks. Additionally, I was involved in the AMBER project, a hallucination study for MLLMs(multimodal large language models), focusing on hallucinations in both discriminative and generative tasks.
 
 Recently, I have developed a strong interest in designing efficient LLMs-based and MLLMs-based agents, as well as exploring human-agent interaction. I am currently investigating ways to enhance agent decision-making capabilities through supervised and reinforcement learning algorithms. My current research interests include:
-	•	Human-centered AI
-	•	Human-in-the-loop Agent
-	•	Multi-agent Reinforcement Learning
-	•	Intelligent Decision-making
+
+> - Human-centered AI
+> - Human-in-the-loop Agent
+> - Multi-agent Reinforcement Learning
+> - Intelligent Decision-making
 
 <span style="color: red; font-weight: bold;">I am preparing my PhD applications and am actively seeking a summer research internship to enrich my research experience and secure a strong letter of recommendation. If my research aligns with your projects or if you are interested in collaborating, please feel free to reach out via email!</span>
 
-Publications
-======
+## Publications
+
 ### [Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration](https://arxiv.org/abs/2406.01014)  
 Junyang Wang, Haiyang Xu, **Haitao Jia**, Xi Zhang, Ming Yan, Weizhou Shen, Ji Zhang, Fei Huang, Jitao Sang.  
 *Annual Conference on Neural Information Processing Systems (NeurIPS 2024)*. CCF-A.  
 
-Education
-======
+## Education
+
 ·*M.S (Computer Science)*, [Beijing Jiaotong University](http://www.bjtu.edu.cn/)  
 *2023.9 - 2026.6*
 
