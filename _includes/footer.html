@@ -52,11 +52,31 @@ function siteTime(){
     siteTime();
 </script>
 <br />
-<span id="busuanzi_container_site_uv">
-👤Total Visitors <span id="busuanzi_value_site_uv"></span> |
+<span id="busuanzi_container_site_uv" style="display:none">
+  👤Total Visitors <span id="busuanzi_value_site_uv"></span> |
 </span>
-<span id="busuanzi_container_site_pv">
-👁️Total Views <span id="busuanzi_value_site_pv"></span>
+<span id="busuanzi_container_site_pv" style="display:none">
+  👁️Total Views <span id="busuanzi_value_site_pv"></span>
 </span>
+
+<script>
+// 双重保障加载
+document.addEventListener('DOMContentLoaded', function() {
+  if (typeof busuanzi === 'undefined') {
+    var script = document.createElement('script');
+    script.src = 'https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js';
+    document.body.appendChild(script);
+  }
+
+  // 显示统计容器
+  var checkExist = setInterval(function() {
+    if (document.getElementById('busuanzi_value_site_uv')) {
+      clearInterval(checkExist);
+      document.getElementById('busuanzi_container_site_uv').style.display = 'inline';
+      document.getElementById('busuanzi_container_site_pv').style.display = 'inline';
+    }
+  }, 100);
+});
+</script>
 
 </div>
